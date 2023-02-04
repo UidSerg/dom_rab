@@ -54,5 +54,5 @@
 * git push -u origin master -  отправить изменения на github
 * git brach -M master - оснавная ветка master
 * git pull - выкачивает данные из удаленного репо  и делает слияние с локальным
-
+* git log --graph - выводит лог с ветвлениями
 ## Итог 
