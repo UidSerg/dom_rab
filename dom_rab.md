@@ -55,3 +55,11 @@
 
 
 ## Итог 
+
+*главная тема 2го семинара ветвление*
+
+* git branch - показать список всех веток. *name_branche - звездока пеерд названием ветки показывает что мы находимся в этой ветке
+* git branch branche_name - создать ветку branche_name
+* git checkout branche_name - перейти в ветку branche_name
+* git merge branche_name - слить ветку branche_name в основную
+- - -
